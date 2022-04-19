@@ -24,7 +24,7 @@ github: "gtzheng"
 
 highlighter: rouge
 markdown: kramdown
-
+use_math: true
 # Tracker
 analytics:
 

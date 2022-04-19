@@ -1,14 +1,14 @@
 $base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   20px;
+$base-font-size:   18px; //font size
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.7;
+$base-line-height: 1.4; //change line spacing
 
 $spacing-unit:     30px;
 $light-gray: white;
 $text-color:       #333;
 $background-color: #fdfdfd;
-$brand-color:      #60c17d;
+$brand-color:      #3b17bb; // change title/navigation bar colors
 
 // Color scheme for light
 $body-bg: #fdfdfd;
