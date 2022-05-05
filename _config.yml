@@ -8,7 +8,6 @@ url: "" #custom url to be used instead of GitHub repository
 email: #
 
 
-
 # Pagination
 paginate: 4
 permalink: /blog/:year/:title/
@@ -23,7 +22,9 @@ github: "gtzheng"
 # orcid: "#"
 
 highlighter: rouge
+
 markdown: kramdown
+
 use_math: true
 # Tracker
 analytics:

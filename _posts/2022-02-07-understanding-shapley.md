@@ -5,11 +5,11 @@ title: Understanding Shapley Value
 
 The Shapley value for player $i$ is defined as 
 \begin{equation}\nonumber
-\phi(i)(v)=\sum_{S\subseteq N\backslash\{i\}}\frac{|S|!(n-|S|-1)!}{n!}(v(S\cup\{i\}-v(S)),
+\phi(i)(v)=\sum_{S\subseteq N\backslash\\{i\\}}\frac{|S|!(n-|S|-1)!}{n!}\Big(v(S\cup\\{i\\}-v(S)\Big),
 \end{equation}
-where $v(\cdot)$  is a value function, $N=\{1,\ldots,n\}$ is the set of all $n$ players, 
+where $v(\cdot)$  is a value function, $N=\\{1,\ldots,n\\}$ is the set of all $n$ players, 
 the Shapley value $\phi(i)(v)$ is the average return for player $i$ when it cooperates with other players under the value function $v$. 
-The difference $v(S\cup\{i\})-v(S)$ is the net gain obtained when player $i$ cooperate with players in the set $S$.
+The difference $v(S\cup\{i\})-v(S)$ is the net gain obtained when player $i$ cooperates with players in the set $S$.
 
 All the symbols and notations make sense except the weight before the difference term. The weight at first glance is hard to understand. 
 However, if we reformulate it a little bit as follows
@@ -18,7 +18,7 @@ $$\frac{|S|!(n-|S|-1)!}{n!}=\frac{|S|!(n-1-|S|)!}{n(n-1)!}=\frac{1}{n}\cdot\frac
 
 then it becomes much easier to digest.
 
-Now if we rewrite the summation over all subsets of $N\backslash \{i\}$ into the following and plug in the new form of the weight, we can get
+Now if we rewrite the summation over all subsets of $N\backslash \\{i\\}$ into the following and plug in the new form of the weight, we can get
 
 $$\phi(i)(v)=\frac{1}{n}\sum_{m=0}^{n-1}\sum_{S\subseteq N\backslash\{i\},|S|=m}\frac{1}{C_{n-1}^{|S|}}(v(S\cup\{i\}-v(S)).$$
 
@@ -35,7 +35,7 @@ them. Then, the Shapley value for player $i$ is the average net gain when player
 So, at high-level, the Shapley value calculates the average net gain from cooperation at different scales.
 
 Here is a simple example, where we have three players $x_1,x_2,x_3$. Then the Shapley value for player $x_i$ can be calculated as follows:
-- $x_1$ playes sole, $\phi(x_1)(v,0)=v(x_1)-v(\emptyset)$
+- $x_1$ plays alone, $\phi(x_1)(v,0)=v(x_1)-v(\emptyset)$
 - $x_1$ cooperates with one player. There are two options: cooperate with $x_2$ or $x_3$, then 
   $$\phi(x_1)(v,1)=\frac{1}{2}(v(x_1,x_2)-v(x_2))+\frac{1}{2}(v(x_1,x_2)-v(x_2))$$
 - $x_1$ cooperates with two players. 
