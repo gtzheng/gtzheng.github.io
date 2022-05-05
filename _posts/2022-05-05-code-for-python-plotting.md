@@ -21,7 +21,7 @@ Of course, we can use `plt.plot` to directly plot a figure, but you have less co
 For example, in the above command, you can specify the figure size, how many subfigures you need, etc..
 So I choose this as my starting point of creating a figure. 
 
-Calling `subplots()` without specifying any parameters will create one figure with the default size.
+Calling `subplots()` without specifying any parameters will create a figure with the default size.
 Setting `figsize=(10,6)` will create a figure with width 10 and height 6.
 Setting `nrows` and `ncols` will create a figure with `nrows` X `ncols` axes, i.e., `ax` will be a `nrow`-by-`ncols` array.
 
@@ -49,7 +49,7 @@ colors = cmap(np.linspace(0, 1, 5))
 ```
 `cmap_name` could be 'viridis', 'plasma', 'inferno', or other names in [cmaps](https://matplotlib.org/3.5.0/tutorials/colors/colormaps.html).
 Consider each color in a color map as a point in the interval $[0,1]$, then we can choose a color from a chosen color map by giving a real number in the range $[0,1]$.
-Here, I choose 5 colors with equal distance in the chosen color map. Each row of `colors` represent a color. 
+Here, I choose 5 colors with equal distance in the chosen color map. Each row of `colors` represents a color. 
 
 ## Add a Colorbar
 
