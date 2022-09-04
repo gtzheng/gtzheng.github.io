@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Guangtao Zheng
-description: #
+description: gz5hp AT virginia DOT edu | CS @ University of Virginia
 
 baseurl: #
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: gz5hp@virginia.edu
 
 
 # Pagination
@@ -16,7 +16,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 # facebook: "#"
 #twitter: "#"
-#linkedin: "#"
+linkedin: "guangtao-zheng-a29b607a"
 github: "gtzheng"
 # researchgate: "#"
 # orcid: "#"
