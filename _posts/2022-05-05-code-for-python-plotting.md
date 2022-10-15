@@ -95,7 +95,7 @@ for i, (ax, im) in enumerate(zip(grid, image_arr)):
 barWidth = 0.25
 fig, ax = plt.subplots(figsize =(12, 8))
 data1 = [0.1,0.2,0.3,0.4,0.5]
-data2 = [,0.2,0.3,0.4,0.5,0.6] 
+data2 = [0.2,0.3,0.4,0.5,0.6] 
 br1 = np.arange(len(data1))
 br2 = [x + barWidth for x in br1]
 ax.bar(br1, data1, width = barWidth,
