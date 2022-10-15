@@ -11,8 +11,7 @@ published: true
 I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/).
 My advisor is Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang).
 
-My research interests include meta-learning, few-shot learning, and natural language processing with applications in learning representations for genomic data.
-
+My research interests include machine learning, data mining, natural language processing, and bioinformatics, with a focus on building generalizable learning systems with limited data.
 ***
 
 <h3>Publications</h3>
