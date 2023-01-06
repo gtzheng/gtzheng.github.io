@@ -17,7 +17,7 @@ My research interests include machine learning, data mining, natural language pr
 
 <h3>Publications</h3>
 
-1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. Learning to Learn Task Transformations for Improved Few-Shot Classification, SIAM International Conference on Data Mining (SDM), 2023.
+1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. Learning to Learn Task Transformations for Improved Few-Shot Classification, SIAM International Conference on Data Mining (SDM), 2023. [Acceptance Rate: 27.4%]
 
 1. **Guangtao Zheng** and Aidong Zhang. [Knowledge-Guided Semantics Adjustment for Improved Few-Shot Classification](https://drive.google.com/file/d/1zxLLSQzbNkDzRPYIGPO3hhNhqv7WiLSt/view?usp=sharing), IEEE International Conference on Data Mining (ICDM), 2022. [Acceptance Rate: 20.0%]
 
