@@ -19,7 +19,7 @@ My research interests include machine learning, data mining, natural language pr
 
 1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. [Learning to Learn Task Transformations for Improved Few-Shot Classification](assets/files/SDM2023_full.pdf), SIAM International Conference on Data Mining (SDM), 2023. [Acceptance Rate: 27.4%]
 
-2. **Guangtao Zheng** and Aidong Zhang. [Knowledge-Guided Semantics Adjustment for Improved Few-Shot Classification](https://drive.google.com/file/d/1zxLLSQzbNkDzRPYIGPO3hhNhqv7WiLSt/view?usp=sharing), IEEE International Conference on Data Mining (ICDM), 2022. [Acceptance Rate: 20.0%]
+2. **Guangtao Zheng** and Aidong Zhang. [Knowledge-Guided Semantics Adjustment for Improved Few-Shot Classification](assets/files/ICDM2022_full.pdf), IEEE International Conference on Data Mining (ICDM), 2022. [Acceptance Rate: 20.0%]
 
 3. Erfaneh Gharavi, Aaron Gu, **Guangtao Zheng**, Jason P Smith, Hyun Jae Cho, Aidong Zhang, Donald E Brown, and Nathan C Sheffield. [Embeddings of genomic region sets capture rich biological associations in lower dimensions](https://academic.oup.com/bioinformatics/article/37/23/4299/6307720), Bioinformatics, volume 37, issue 23, December 2021, pages 4299–4306. [Impact factor: 6.937]
 
