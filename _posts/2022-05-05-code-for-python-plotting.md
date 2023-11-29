@@ -106,6 +106,8 @@ ax.bar(br2, data2, width = barWidth,
 
 Another example with a customized legend, user-defined tick labels, and bar annotations.
 ```python
+from matplotlib.patches import Patch
+
 vocab100 = 287225
 vocab1000 = 232626
 vocab10000 = 40498
