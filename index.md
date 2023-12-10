@@ -17,6 +17,8 @@ My research interests include machine learning, data mining, and natural languag
 ***
 
 <h3>Publications (<a href="https://scholar.google.com/citations?user=SHMLzswAAAAJ&hl=en">Google scholar</a>)</h3>
+1. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence*, 2024.
+
 1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. *Learning to Learn Task Transformations for Improved Few-Shot Classification*, SIAM International Conference on Data Mining (SDM), 2023. [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch88 "Acceptance Rate: 27.4%")] [[code](https://github.com/gtzheng/L2TT)]
 
 2. **Guangtao Zheng**, Julia Rymuza, Erfaneh Gharavi, Nathan J LeRoy, Aidong Zhang, and Nathan C Sheffield. *Methods for Evaluating Unsupervised Vector Representations of Genomic Regions*, bioRxiv, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.28.555137v1.abstract)]
