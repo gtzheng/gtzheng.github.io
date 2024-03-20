@@ -119,14 +119,14 @@ cmap = plt.get_cmap('Set2')
 cmaplist = [cmap(i) for i in [0,2,1,3]]
 fig,ax = plt.subplots(figsize=(8,6))
 br1 = np.arange(4)
-row_lables = ['UniverseLarge', 'UniverseMedium','UniverseSmall','UniverseTiny']
+row_labels = ['UniverseLarge', 'UniverseMedium','UniverseSmall','UniverseTiny']
 number_of_regions = [vocab100,vocab1000,vocab10000,vocab50000]
 number_of_regions_str = ['287K','233K','40K','0.9K']
 ax.bar(br1,number_of_regions,width=barWidth,edgecolor ='grey', color=cmaplist)
 ax.set_yscale('log')
 ax.set_ylim([500,500000])
 ax.set_xticks(np.arange(4))
-ax.set_xticklabels(row_lables)
+ax.set_xticklabels(row_labels)
 for item in (ax.get_xticklabels() + ax.get_yticklabels()):
     item.set_fontsize(20)
 plt.setp(ax.get_xticklabels(), rotation=-10, ha="left",

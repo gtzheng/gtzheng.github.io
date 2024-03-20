@@ -12,18 +12,19 @@ published: true
 I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/).
 My advisor is Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang).
 
-My research interests include machine learning, data mining, and natural language processing, with a focus on designing robust models that can produce right outputs for the right reasons.
+My research interests include machine learning, data mining, and natural language processing, with a focus on designing robust and reliable machine learning models.
 
 ***
 
 <h3>Publications (<a href="https://scholar.google.com/citations?user=SHMLzswAAAAJ&hl=en">Google scholar</a>)</h3>
 1. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
 
+3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. *Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets*, Bioengineering, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
+
 1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. *Learning to Learn Task Transformations for Improved Few-Shot Classification*, SIAM International Conference on Data Mining (SDM), 2023. [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch88 "Acceptance Rate: 27.4%")] [[code](https://github.com/gtzheng/L2TT)]
 
 2. **Guangtao Zheng**, Julia Rymuza, Erfaneh Gharavi, Nathan J LeRoy, Aidong Zhang, and Nathan C Sheffield. *Methods for Evaluating Unsupervised Vector Representations of Genomic Regions*, bioRxiv, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.28.555137v1.abstract)]
 
-3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. *Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets*, bioRxiv, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.21.554131v1.abstract)]
 
 4. Julia Rymuza, Yuchen Sun, **Guangtao Zheng**, Nathan J  LeRoy,  Maria Murach, Neil Phan,  Aidong Zhang, and Nathan C Sheffield. *Methods for Constructing and Evaluating Consensus Genomic Interval Sets*, bioRxiv, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.03.551899v1.abstract)]
 
