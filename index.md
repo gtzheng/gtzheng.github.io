@@ -14,6 +14,9 @@ My advisor is Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aido
 
 My research is on machine learning and its applications spanning computer vision, natural language processing, and bioinformatics, with a focus on designing efficient, scalable, and trustworthy AI systems.
 
+Address: 85 Engineer's Way, Charlottesville, VA 22903\
+Email: gz5hp@virginia.edu
+
 ***
 
 <h3>Publications</h3>
