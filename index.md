@@ -12,11 +12,21 @@ published: true
 I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/).
 My advisor is Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang).
 
-My research interests include machine learning, data mining, and natural language processing, with a focus on designing robust and reliable machine learning models.
+My research is on machine learning and its applications spanning computer vision, natural language processing, and bioinformatics, with a focus on designing efficient, scalable, and trustworthy AI systems.
 
 ***
 
-<h3>Publications (<a href="https://scholar.google.com/citations?user=SHMLzswAAAAJ&hl=en">Google scholar</a>)</h3>
+<h3>Publications</h3>
+
+1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation, *Under Review*, 2024.
+
+2. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Spuriousness-Aware Meta-Learning for Learning Robust
+Classifiers, *Under Review*, 2024.
+
+3. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *Under Review*, 2024.
+
+4. Wenqian Ye, **Guangtao Zheng**, Xu Cao, Yunsheng Ma, Xia Hu, Aidong Zhang, Spurious Correlations in Machine Learning: A Survey, *Preprint in Progress*, 2024, arXiv preprint arXiv:2402.12715.[[paper](https://arxiv.org/abs/2402.12715)]
+
 1. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
 
 3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. *Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets*, Bioengineering, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]

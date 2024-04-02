@@ -1,0 +1,12 @@
+---
+layout: post
+title: Spuriousness-Aware Meta-Learning for Learning Robust Classifiers
+description:  We propose a novel learning framework based on meta-learning, termed SPUME -- SPUriousness-aware MEta-learning for learning robust classifiers, to train an image classifier to be robust to spurious correlations.
+img: /assets/images/spuriousness_aware_meta_learning.png
+---
+
+Spurious correlations are brittle associations between certain attributes of inputs and target variables, such as associating an image background with an object class. Deep image classifiers often leverage them for predictions, leading to poor generalization on the data where the correlations do not hold. Mitigating the impact of spurious correlations is crucial towards robust model generalization, but it often requires annotations of the spurious correlations in data -- a strong assumption in practice. In this paper, we propose a novel learning framework based on meta-learning, termed SPUME -- SPUriousness-aware MEta-learning for learning robust classifiers, to train an image classifier to be robust to spurious correlations. We design the framework to iteratively detect and mitigate the spurious correlations that the classifier excessively relies on for predictions. To achieve this, we first propose to utilize a pre-trained vision-language model to extract text-format attributes from images. These attributes enable us to curate data with various class-attribute correlations, and we formulate a novel metric to measure the degree of these correlations' spuriousness. Then, to mitigate the reliance on spurious correlations, we propose a meta-learning strategy in which the support (training) sets and query (test) sets in tasks are curated with different correlations that have high spuriousness values. By meta-training the classifier on these spuriousness-aware meta-learning tasks, our classifier can learn to be invariant to the spurious correlations.  We demonstrate that our method is robust to spurious correlations without knowing them a priori and achieves the best on five benchmark datasets with different robustness measures.
+
+![method](/assets/images/spuriousness_aware_meta_learning.png){:.centered; width="100%"}
+
+Overview of SPUME. (a) Detect attributes from training data and measure their spuriousness in three steps. "\green" represents without the attribute "green". (b) Construct spuriousness-aware meta-learning tasks guided by the spuriousness scores of the detected attributes. (c) Meta-train a robust feature extractor using the constructed tasks.

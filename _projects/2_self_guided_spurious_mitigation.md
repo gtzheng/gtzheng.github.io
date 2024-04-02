@@ -1,15 +1,20 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation
+description:  We tackle an annotation-free setting and propose a self-guided spurious correlation mitigation framework. Our framework automatically constructs fine-grained training labels tailored for a classifier obtained with empirical risk minimization to improve its robustness against spurious correlations.
+img: /assets/images/self_guided_debiasing_method.png
 ---
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
-H1 Header
-============
+Deep neural classifiers tend to rely on spurious correlations between spurious attributes of inputs and the targets to make predictions, which could jeopardize their generalization capability.
+Training classifiers robust to spurious correlations typically rely on data with spurious correlation annotations, e.g., group information, which is often expensive to get. In this paper, we tackle an annotation-free setting and propose a self-guided spurious correlation mitigation framework. 
+Our framework automatically constructs fine-grained training labels tailored for a classifier obtained with empirical risk minimization to improve its robustness against spurious correlations. The fine-grained training labels are formulated with different prediction behaviors of the classifier identified in a novel spuriousness embedding space. We construct the space with automatically detected conceptual attributes and a novel spuriousness metric which measures how likely a class-attribute correlation is exploited for predictions. 
+We demonstrate that training the classifier to distinguish different prediction behaviors reduces its reliance on spurious correlations without knowing them a priori and outperforms prior methods on five real-world datasets.
 
-Paragraphs are separated by a blank line.
+![method](/assets/images/self_guided_debiasing_method.png){:.centered}
 
+Method overview. (a) Detecting attributes with a pre-trained VLM. (b) Quantifying the spuriousness of correlations between classes and detected attributes. (c) Clustering in the spuriousness embedding space for relabeling  the training data. (d) Diversifying the outputs of the classifier and training the classifier with balanced training data.
+
+<!-- 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
@@ -49,11 +54,11 @@ from the left side). Here's a code sample:
 As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:
 
-~~~
+```python
 define foobar() {
     print "Welcome to flavor country!";
 }
-~~~
+```
 
 (which makes copying & pasting easier). You can optionally mark the
 delimited block for Pandoc to syntax highlight it:
@@ -149,4 +154,4 @@ math should get its own line like so:
 $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc. -->

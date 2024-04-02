@@ -3,6 +3,7 @@
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
+
 }
 
 .gallery {
@@ -14,9 +15,11 @@
 
 .projectTile {
   /* Minimum width of 200px and grow to fit available space */
-  flex: 1 0 200px;
+  flex: 1 0 500px;
   border-radius: 15px;
-  background: $projectbox;
+  border-width: 4px;
+  border: 2px solid rgb(228, 225, 225);
+  background: rgba(255,255,255,0.8);
   @media (prefers-color-scheme: dark) {
     background: $projectbox-dark;
   }
@@ -115,7 +118,7 @@
 @supports (display: grid) {
   .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
     grid-gap: 2rem;
   }
 

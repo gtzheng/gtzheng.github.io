@@ -21,7 +21,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-weight: bold;
   line-height: 1.8;
   margin: 0;
@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {
  margin-bottom: 0.5em;
 }
 strong { 
-  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-weight: bold; 
 }
 
@@ -98,6 +98,11 @@ figure {
 
 img {
   max-width: 100%;
+}
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 pre,
