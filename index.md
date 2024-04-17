@@ -17,11 +17,15 @@ My research is on machine learning and its applications spanning computer vision
 Address: 85 Engineer's Way, Charlottesville, VA 22903\
 Email: gz5hp@virginia.edu
 
+<a class="navigation" href="https://www.github.com/{{ site.github }}" itemprop="sameAs" target="_blank"><i class="fab fa-github"></i> </a>&nbsp;&nbsp;
+<a class="navigation" href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs" target="_blank"><i class="fab fa-linkedin"></i> </a> &nbsp;&nbsp;
+<a class="navigation" href="https://scholar.google.com/citations?user=SHMLzswAAAAJ&hl=en" itemprop="sameAs" target="_blank">Google Scholar</a>
+
 ***
 
 <h3>Publications</h3>
 
-1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation, *Under Review*, 2024.
+1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation, *International Joint Conference on Artificial  Intelligence*, 2024.
 
 2. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Spuriousness-Aware Meta-Learning for Learning Robust
 Classifiers, *Under Review*, 2024.
