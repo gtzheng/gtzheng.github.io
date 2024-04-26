@@ -12,7 +12,7 @@ published: true
 I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/).
 My advisor is Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang).
 
-My research is on machine learning and its applications spanning computer vision, natural language processing, and bioinformatics, with a focus on designing efficient, scalable, and trustworthy AI systems.
+I am interested in Machine Learning with applications in Computer Vision, Natural Language Processing, and Bioinformatics. Specifically, my research focuses on (1) improving learning efficiency with a few samples, and (2) developing reliable models that are robust to spurious and superficial patterns, with techniques including model interpretations, few-shot learning, large vision and language models, and self-supervised learning.
 
 Address: 85 Engineer's Way, Charlottesville, VA 22903\
 Email: gz5hp@virginia.edu
@@ -27,6 +27,11 @@ Email: gz5hp@virginia.edu
 
 1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation, *The 33rd International Joint Conference on Artificial  Intelligence (IJCAI)*, 2024.
 
+1. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
+
+
+3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. *Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets*, Bioengineering, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
+
 2. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Spuriousness-Aware Meta-Learning for Learning Robust
 Classifiers, *Under Review*, 2024.
 
@@ -34,9 +39,6 @@ Classifiers, *Under Review*, 2024.
 
 4. Wenqian Ye, **Guangtao Zheng**, Xu Cao, Yunsheng Ma, Xia Hu, Aidong Zhang, Spurious Correlations in Machine Learning: A Survey, *Preprint in Progress*, 2024, arXiv preprint arXiv:2402.12715.[[paper](https://arxiv.org/abs/2402.12715)]
 
-1. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
-
-3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. *Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets*, Bioengineering, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
 
 1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. *Learning to Learn Task Transformations for Improved Few-Shot Classification*, SIAM International Conference on Data Mining (SDM), 2023. [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch88 "Acceptance Rate: 27.4%")] [[code](https://github.com/gtzheng/L2TT)]
 
