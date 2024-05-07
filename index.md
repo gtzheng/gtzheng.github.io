@@ -25,7 +25,7 @@ Email: gz5hp@virginia.edu
 
 <h3>Publications</h3>
 
-1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation, *The 33rd International Joint Conference on Artificial  Intelligence (IJCAI)*, 2024.
+1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation, *The 33rd International Joint Conference on Artificial  Intelligence (IJCAI)*, 2024. [[paper](https://arxiv.org/abs/2405.03649)] [[code](https://github.com/gtzheng/LBC)]
 
 1. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
 
