@@ -34,7 +34,7 @@ Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 3. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
 
 
-3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. *Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets*, Bioengineering, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
+3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets, *Bioengineering*, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
 
 
 3. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *Under Review*, 2024.
