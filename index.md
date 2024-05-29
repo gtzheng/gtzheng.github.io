@@ -36,29 +36,29 @@ Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 
 3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets, *Bioengineering*, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
 
+5. Nathan J LeRoy,  Jason P Smith, **Guangtao Zheng**,  Julia Rymuza,  Erfaneh Gharavi,  Donald E Brown,  Aidong Zhang,  and Nathan C Sheffield. Fast Clustering and Cell-Type Annotation of scATAC Data Using Pre-trained Embeddings, *Nucleic Acids Research Genomics and Bioinformatics*, 2024. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.01.551452v1.abstract)]
 
 3. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *Under Review*, 2024.
 
 4. Wenqian Ye, **Guangtao Zheng**, Xu Cao, Yunsheng Ma, Xia Hu, Aidong Zhang, Spurious Correlations in Machine Learning: A Survey, *Preprint in Progress*, 2024, arXiv preprint arXiv:2402.12715.[[paper](https://arxiv.org/abs/2402.12715)]
 
 
-1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. *Learning to Learn Task Transformations for Improved Few-Shot Classification*, SIAM International Conference on Data Mining (SDM), 2023. [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch88 "Acceptance Rate: 27.4%")] [[code](https://github.com/gtzheng/L2TT)]
+1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. Learning to Learn Task Transformations for Improved Few-Shot Classification, *SIAM International Conference on Data Mining (SDM)*, 2023. [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch88 "Acceptance Rate: 27.4%")] [[code](https://github.com/gtzheng/L2TT)]
 
-2. **Guangtao Zheng**, Julia Rymuza, Erfaneh Gharavi, Nathan J LeRoy, Aidong Zhang, and Nathan C Sheffield. *Methods for Evaluating Unsupervised Vector Representations of Genomic Regions*, bioRxiv, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.28.555137v1.abstract)]
+2. **Guangtao Zheng**, Julia Rymuza, Erfaneh Gharavi, Nathan J LeRoy, Aidong Zhang, and Nathan C Sheffield. Methods for Evaluating Unsupervised Vector Representations of Genomic Regions, *bioRxiv*, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.28.555137v1.abstract)]
 
 
-4. Julia Rymuza, Yuchen Sun, **Guangtao Zheng**, Nathan J  LeRoy,  Maria Murach, Neil Phan,  Aidong Zhang, and Nathan C Sheffield. *Methods for Constructing and Evaluating Consensus Genomic Interval Sets*, bioRxiv, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.03.551899v1.abstract)]
+4. Julia Rymuza, Yuchen Sun, **Guangtao Zheng**, Nathan J  LeRoy,  Maria Murach, Neil Phan,  Aidong Zhang, and Nathan C Sheffield. Methods for Constructing and Evaluating Consensus Genomic Interval Sets, *bioRxiv*, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.03.551899v1.abstract)]
 
-5. Nathan J LeRoy,  Jason P Smith, **Guangtao Zheng**,  Julia Rymuza,  Erfaneh Gharavi,  Donald E Brown,  Aidong Zhang,  and Nathan C Sheffield. *Fast Clustering and Cell-Type Annotation of scATAC Data Using Pre-trained Embeddings*, bioRxiv, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.01.551452v1.abstract)]
 
-6. **Guangtao Zheng** and Aidong Zhang. *Knowledge-Guided Semantics Adjustment for Improved Few-Shot Classification*, IEEE International Conference on Data Mining (ICDM), 2022. [[paper](https://ieeexplore.ieee.org/document/10027712 "Acceptance Rate: 20.0%")][[code](https://github.com/gtzheng/KGSA)]
+6. **Guangtao Zheng** and Aidong Zhang. Knowledge-Guided Semantics Adjustment for Improved Few-Shot Classification, *IEEE International Conference on Data Mining (ICDM)*, 2022. [[paper](https://ieeexplore.ieee.org/document/10027712 "Acceptance Rate: 20.0%")][[code](https://github.com/gtzheng/KGSA)]
 
 7. Erfaneh Gharavi, Aaron Gu, **Guangtao Zheng**, Jason P Smith, Hyun Jae Cho, Aidong Zhang, Donald E Brown, and Nathan C Sheffield. *Embeddings of Genomic Region Sets Capture Rich Biological Associations in Lower Dimensions*, Bioinformatics, volume 37, issue 23, December 2021, pages 4299–4306. [[paper](https://academic.oup.com/bioinformatics/article/37/23/4299/6307720 "Impact factor: 6.937")]
 
 8. **Guangtao Zheng** and Aidong Zhang. *Few-Shot Class-Incremental Learning with Meta-Learned Class Structures*, IEEE International Conference on Data Mining (ICDM) Workshop, 2021, pages 421-430. [[paper](https://ieeexplore.ieee.org/abstract/document/9679861)]
 
-9. Hanjie Chen, **Guangtao Zheng**, and Yangfeng Ji. *Generating Hierarchical Explanations on Text
-Classification via Feature Interaction Detection*. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020, pages 5578–5593. [[paper](https://arxiv.org/pdf/2004.02015.pdf "Acceptance Rate: 22.7%")][[code](https://github.com/HanjieChen/HEDGE)]
+9. Hanjie Chen, **Guangtao Zheng**, and Yangfeng Ji. Generating Hierarchical Explanations on Text
+Classification via Feature Interaction Detection. *In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2020, pages 5578–5593. [[paper](https://arxiv.org/pdf/2004.02015.pdf "Acceptance Rate: 22.7%")][[code](https://github.com/HanjieChen/HEDGE)]
 
 <details>
 <summary>More</summary>
