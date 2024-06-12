@@ -42,7 +42,7 @@ Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 
 3. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *Under Review*, 2024.
 
-4. Wenqian Ye, **Guangtao Zheng**, Xu Cao, Yunsheng Ma, Xia Hu, Aidong Zhang, Spurious Correlations in Machine Learning: A Survey, *Preprint in Progress*, 2024, arXiv preprint arXiv:2402.12715.[[paper](https://arxiv.org/abs/2402.12715)]
+4. Wenqian Ye, **Guangtao Zheng**, Xu Cao, Yunsheng Ma, Aidong Zhang, Spurious Correlations in Machine Learning: A Survey, *Preprint in Progress*, 2024, arXiv preprint arXiv:2402.12715.[[paper](https://arxiv.org/abs/2402.12715)]
 
 
 1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. Learning to Learn Task Transformations for Improved Few-Shot Classification, *SIAM International Conference on Data Mining (SDM)*, 2023. [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch88 "Acceptance Rate: 27.4%")] [[code](https://github.com/gtzheng/L2TT)]
