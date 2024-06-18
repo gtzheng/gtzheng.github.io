@@ -29,7 +29,7 @@ Email: gz5hp@virginia.edu
 
 
 1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Spuriousness-Aware Meta-Learning for Learning Robust
-Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024.
+Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024. [[paper](https://arxiv.org/abs/2406.10742)] [[code](https://github.com/gtzheng/SPUME)]
 
 2. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation, *The 33rd International Joint Conference on Artificial  Intelligence (IJCAI)*, 2024. [[paper](https://arxiv.org/abs/2405.03649)] [[code](https://github.com/gtzheng/LBC)]
 
