@@ -28,6 +28,8 @@ Email: gz5hp@virginia.edu
 <h3>Publications</h3>
 
 
+1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *The 18th European Conference on Computer Vision (ECCV)a*, 2024.
+
 1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Spuriousness-Aware Meta-Learning for Learning Robust
 Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024. [[paper](https://arxiv.org/abs/2406.10742)] [[code](https://github.com/gtzheng/SPUME)]
 
@@ -35,12 +37,11 @@ Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 
 3. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
 
-
 3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets, *Bioengineering*, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
 
 5. Nathan J LeRoy,  Jason P Smith, **Guangtao Zheng**,  Julia Rymuza,  Erfaneh Gharavi,  Donald E Brown,  Aidong Zhang,  and Nathan C Sheffield. Fast Clustering and Cell-Type Annotation of scATAC Data Using Pre-trained Embeddings, *Nucleic Acids Research Genomics and Bioinformatics*, 2024. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.01.551452v1.abstract)]
 
-3. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *Under Review*, 2024.
+
 
 4. Wenqian Ye, **Guangtao Zheng**, Xu Cao, Yunsheng Ma, Aidong Zhang, Spurious Correlations in Machine Learning: A Survey, *Preprint in Progress*, 2024, arXiv preprint arXiv:2402.12715.[[paper](https://arxiv.org/abs/2402.12715)]
 
