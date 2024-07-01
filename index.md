@@ -28,7 +28,7 @@ Email: gz5hp@virginia.edu
 <h3>Publications</h3>
 
 
-1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *The 18th European Conference on Computer Vision (ECCV)a*, 2024.
+1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Benchmarking Spurious Bias in Few-Shot Image Classifiers, *The 18th European Conference on Computer Vision (ECCV)*, 2024.
 
 1. **Guangtao Zheng**, Wenqian Ye, and Aidong Zhang. Spuriousness-Aware Meta-Learning for Learning Robust
 Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024. [[paper](https://arxiv.org/abs/2406.10742)] [[code](https://github.com/gtzheng/SPUME)]
