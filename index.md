@@ -12,9 +12,9 @@ published: true
 I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/).
 My advisor is Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang).
 
-I am passionate about Machine Learning, particularly its applications in Computer Vision, Natural Language Processing, and Bioinformatics. My research primarily focuses on two key areas:
-- Enhancing learning efficiency with limited samples.
-- Developing robust models that are resilient to spurious and superficial patterns.
+My research primarily focuses on two key areas:
+- Enhancing learning efficiency with limited samples
+- Developing robust models that are resilient to spurious and superficial patterns
 
 Address: 85 Engineer's Way, Charlottesville, VA 22903\
 Email: gz5hp@virginia.edu
