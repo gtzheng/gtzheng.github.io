@@ -41,8 +41,6 @@ Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 
 5. Nathan J LeRoy,  Jason P Smith, **Guangtao Zheng**,  Julia Rymuza,  Erfaneh Gharavi,  Donald E Brown,  Aidong Zhang,  and Nathan C Sheffield. Fast Clustering and Cell-Type Annotation of scATAC Data Using Pre-trained Embeddings, *Nucleic Acids Research Genomics and Bioinformatics*, 2024. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.01.551452v1.abstract)]
 
-
-
 4. Wenqian Ye, **Guangtao Zheng**, Xu Cao, Yunsheng Ma, Aidong Zhang, Spurious Correlations in Machine Learning: A Survey, *Preprint in Progress*, 2024, arXiv preprint arXiv:2402.12715.[[paper](https://arxiv.org/abs/2402.12715)]
 
 
