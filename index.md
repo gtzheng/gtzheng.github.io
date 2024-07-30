@@ -37,6 +37,8 @@ Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 
 3. **Guangtao Zheng**, Mengdi Huai, and Aidong Zhang. AdvST: Revisiting Data Augmentations for Single Domain Generalization, *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2024. [[paper](https://arxiv.org/abs/2312.12720)] [[code](https://github.com/gtzheng/AdvST)]
 
+2. **Guangtao Zheng**, Julia Rymuza, Erfaneh Gharavi, Nathan J LeRoy, Aidong Zhang, and Nathan C Sheffield. Methods for Evaluating Unsupervised Vector Representations of Genomic Regions, *NAR Genomics and Bioinformatics*, 2024. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.28.555137v1.abstract)]
+
 3. Erfaneh Gharavi, Nathan J LeRoy, **Guangtao Zheng**,  Aidong Zhang,  Donald E  Brown, and Nathan C Sheffield. Joint Representation Learning for Retrieval and Annotation of Genomic Interval Sets, *Bioengineering*, 2024. [[paper](https://www.mdpi.com/2306-5354/11/3/263)]
 
 5. Nathan J LeRoy,  Jason P Smith, **Guangtao Zheng**,  Julia Rymuza,  Erfaneh Gharavi,  Donald E Brown,  Aidong Zhang,  and Nathan C Sheffield. Fast Clustering and Cell-Type Annotation of scATAC Data Using Pre-trained Embeddings, *Nucleic Acids Research Genomics and Bioinformatics*, 2024. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.01.551452v1.abstract)]
@@ -46,7 +48,7 @@ Classifiers, *The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 
 1. **Guangtao Zheng**, Qiuling Suo, Mengdi Huai, and Aidong Zhang. Learning to Learn Task Transformations for Improved Few-Shot Classification, *SIAM International Conference on Data Mining (SDM)*, 2023. [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch88 "Acceptance Rate: 27.4%")] [[code](https://github.com/gtzheng/L2TT)]
 
-2. **Guangtao Zheng**, Julia Rymuza, Erfaneh Gharavi, Nathan J LeRoy, Aidong Zhang, and Nathan C Sheffield. Methods for Evaluating Unsupervised Vector Representations of Genomic Regions, *bioRxiv*, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.28.555137v1.abstract)]
+
 
 
 4. Julia Rymuza, Yuchen Sun, **Guangtao Zheng**, Nathan J  LeRoy,  Maria Murach, Neil Phan,  Aidong Zhang, and Nathan C Sheffield. Methods for Constructing and Evaluating Consensus Genomic Interval Sets, *bioRxiv*, 2023. [[paper](https://www.biorxiv.org/content/10.1101/2023.08.03.551899v1.abstract)]
