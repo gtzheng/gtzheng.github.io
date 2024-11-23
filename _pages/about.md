@@ -29,4 +29,4 @@ Application areas include:
   - Designing machine learning models to learn high-quality genomic representations.
   - Leveraging Generative AI for domain-specific information retrieval and knowledge discovery.
 
- > `📣 I am actively seeking internship, full-time, or postdoctoral positions in industrial R&D and would be happy to discuss any potential opportunities.`
+ > `📣 I am actively seeking internship, full-time, or postdoctoral positions and would be happy to discuss any potential opportunities.`
