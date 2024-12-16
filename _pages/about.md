@@ -20,13 +20,14 @@ social: true # includes social icons at the bottom of the page
 I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/),
 advised by Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang).
 
-My research centers on two primary objectives:
+My research in Artificial Intelligence and Machine Learning focuses on **developing robust AI systems capable of generalizing to new and diverse environments**.
+My research involves:
 
-  - _Enhancing learning efficiency with limited data_: Developing methods to improve model performance in low-data environments.
-  - _Building robust models resistant to spurious patterns_: Designing models that are robust to superficial or misleading correlations.
+- Bias detection and mitigation
+- AI alignment
+- Meta-learning
+- Multimodal learning
 
-Application areas include:
-  - Designing machine learning models to learn high-quality genomic representations.
-  - Leveraging Generative AI for domain-specific information retrieval and knowledge discovery.
+In addition to solving fundamental machine learning problems, I am also passionate about **application-driven machine learning**, leveraging techniques such as self-supervised learning and generative modeling to accelerate knowledge discovery in genomics.
 
  > `📣 I am actively seeking internship, full-time, or postdoctoral positions and would be happy to discuss any potential opportunities.`
