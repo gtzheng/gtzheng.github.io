@@ -17,8 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/),
+I am a PhD candidate in [Computer Science](https://engineering.virginia.edu/departments/computer-science)  at [University of Virginia](https://www.virginia.edu/) (UVA),
 advised by Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang).
+Before joining UVA, I earned my Master's degree from the University of Science and Technology of China (USTC) and my Bachelor's degree from Sun Yat-sen University (SYSU).
 
 My research in Artificial Intelligence and Machine Learning focuses on **developing robust AI systems capable of generalizing to new and diverse environments**.
 My research involves:
