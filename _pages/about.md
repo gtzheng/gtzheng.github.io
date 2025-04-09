@@ -31,4 +31,3 @@ My research involves:
 
 In addition to solving fundamental machine learning problems, I am also passionate about **application-driven machine learning**, leveraging techniques such as self-supervised learning and generative modeling to accelerate knowledge discovery in genomics.
 
- > `📣 I am actively seeking internship, full-time, or postdoctoral positions and would be happy to discuss any potential opportunities.`
