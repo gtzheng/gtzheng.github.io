@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-01
+date: 2025-05-16
 inline: true
 related_posts: false
 ---
 
-One paper is accepted @ IJCAI 2024
+One paper is accepted @ KDD 2025

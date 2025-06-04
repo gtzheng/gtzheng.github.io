@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on mitigating shortcut learning is accepted @ IJCAI 2025! 🎉
+One paper is accepted @ IJCAI 2025

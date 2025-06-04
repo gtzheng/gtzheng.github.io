@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on [evaluating unsupervised vector representations of genomic regions](https://academic.oup.com/nargab/article/6/3/lqae086/7731295?login=false) is published @NAR Genomics and Bioinformatics 🎉
+One paper is published @NAR Genomics and Bioinformatics

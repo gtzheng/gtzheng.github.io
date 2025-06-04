@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed my PhD Dissertation Proposal 😀
+Passed my PhD Dissertation Proposal
