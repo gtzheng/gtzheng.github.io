@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed my PhD Dissertation Defense
+Pass my PhD Dissertation Defense
